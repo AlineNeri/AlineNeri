@@ -1,7 +1,7 @@
 ## OLá!
 👩🏽‍💻 Análise e Desenvolvimente de sistema.  
 
-🤓Estou em busca de uma oportunidade de estágio.
+🤓Estou em busca de uma oportunidade .
 
 <div>
   
