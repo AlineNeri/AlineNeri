@@ -1,5 +1,5 @@
 ## OLá!
-👩🏽‍💻Estutande de Análise e Desenvolvimente de sistema.  
+👩🏽‍💻 Análise e Desenvolvimente de sistema.  
 
 🤓Estou em busca de uma oportunidade de estágio.
 
