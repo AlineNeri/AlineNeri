@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Aline Neri estudando tecnologia" width="100%">
+  <img src="<img width="2048" height="768" alt="Aline neri Github" src="https://github.com/user-attachments/assets/c98b7a33-b134-4c5c-be23-9063835389d8" />
+" alt="Aline Neri estudando tecnologia" width="100%">
 </p>
 
 
