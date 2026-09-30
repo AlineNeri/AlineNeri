@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="<img width="2048" height="768" alt="Aline neri Github" src="https://github.com/user-attachments/assets/c98b7a33-b134-4c5c-be23-9063835389d8" />
-" alt="Aline Neri estudando tecnologia" width="100%">
-</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8bd2fa7-1207-439c-8a3a-cf8cb177070b" alt="Aline neri Github" width="100%">
+</p>
 
 <div align="center">
 
