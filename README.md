@@ -1,19 +1,61 @@
-## OLá!
-👩🏽‍💻 Análise e Desenvolvimente de sistema.  
+<p align="center">
+  <img src="./assets/banner.png" alt="Aline Neri estudando tecnologia" width="100%">
+</p>
 
-🤓Estou em busca de uma oportunidade .
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineNeri&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alineneri&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div align="center">
+
+# 👋 Olá, eu sou Aline Neri
+
+### Analista de Sistemas Júnior
+
+**QA & Testes • Front-end • E-commerce • IA**
 
 </div>
-<br>
 
-<div  align="center"> 
-    <div/>
-    
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-    
+---
+
+## 💻 Sobre mim
+
+Profissional de tecnologia com experiência em **e-commerce, marketplaces e sistemas**, atualmente direcionando minha carreira para **QA, desenvolvimento Front-end e Inteligência Artificial**.
+
+Estou constantemente estudando e criando projetos práticos para transformar conhecimento em experiência.
+
+---
+
+## 🛠️ Tecnologias
+
+**Front-end:** HTML • CSS • JavaScript • React
+**QA:** Testes Funcionais • Playwright • API • SQL
+**Ferramentas:** Git • GitHub • Jira • Notion
+**E-commerce:** Olist • Mercado Livre • Shopee • PrestaShop • Agendor
+**IA:** IA Generativa • ChatGPT • GitHub Copilot
+
+---
+
+## 🚀 Projetos
+
+🔹 [Site](https://github.com/AlineNeri)
+🔹 [Calculadora](https://github.com/AlineNeri)
+🔹 [To-Do List](https://github.com/AlineNeri)
+🔹 [Link na Bio](https://github.com/AlineNeri)
+
+> Novos projetos de **QA, automação e IA** em desenvolvimento.
+
+---
+
+## 📚 Atualmente estudando
+
+**QA → Automação → API → SQL → Front-end → IA**
+
+---
+
+<div align="center">
+
+### Vamos nos conectar?
+
+[LinkedIn](https://www.linkedin.com/in/alinesneri) • [GitHub](https://github.com/AlineNeri)
+
+</div>
+
 
