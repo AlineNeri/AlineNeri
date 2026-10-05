@@ -39,6 +39,10 @@ Estou constantemente estudando e criando projetos práticos para transformar con
 
 Catálogo digital de moda feminina, criado com HTML, CSS e JavaScript.
 
+**Apoio no desenvolvimento:** GitHub Copilot
+
+**Validação:** checagem de sintaxe e testes manuais dos fluxos do catálogo, carrinho e modal no navegador.
+
 [![Banner do Catálogo Aline Neri](https://alineneri.github.io/catalogo-aline-neri/img/Gemini_Generated_Image_skf1r2skf1r2skf1.jpg)](https://alineneri.github.io/catalogo-aline-neri/)
 
 [Visitar o catálogo](https://alineneri.github.io/catalogo-aline-neri/) · [Ver código-fonte](https://github.com/AlineNeri/catalogo-aline-neri)
