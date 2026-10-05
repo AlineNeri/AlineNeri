@@ -35,10 +35,15 @@ Estou constantemente estudando e criando projetos práticos para transformar con
 
 ## 🚀 Projetos
 
-🔹 [Site](https://github.com/AlineNeri)
-🔹 [Calculadora](https://github.com/AlineNeri)
-🔹 [To-Do List](https://github.com/AlineNeri)
-🔹 [Link na Bio](https://github.com/AlineNeri)
+### Catálogo Aline Neri
+
+Catálogo digital de moda feminina, criado com HTML, CSS e JavaScript.
+
+[![Banner do Catálogo Aline Neri](https://alineneri.github.io/catalogo-aline-neri/img/Gemini_Generated_Image_skf1r2skf1r2skf1.jpg)](https://alineneri.github.io/catalogo-aline-neri/)
+
+[Visitar o catálogo](https://alineneri.github.io/catalogo-aline-neri/) · [Ver código-fonte](https://github.com/AlineNeri/catalogo-aline-neri)
+
+[Ver todos os repositórios](https://github.com/AlineNeri?tab=repositories)
 
 > Novos projetos de **QA, automação e IA** em desenvolvimento.
 
