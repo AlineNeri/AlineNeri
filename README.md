@@ -49,6 +49,17 @@ Catálogo digital de moda feminina, criado com HTML, CSS e JavaScript.
 
 [Ver todos os repositórios](https://github.com/AlineNeri?tab=repositories)
 
+---
+
+## 🧪 Quality Assurance & Testes
+
+Este projeto foi desenvolvido aplicando um olhar rigoroso de **Quality Assurance (QA)** e foco na experiência do usuário (UX):
+
+* **Casos de Teste & Cenários:** Mapeamento do fluxo principal de compra (seleção de produtos, variações de tamanho/cor, inclusão no carrinho e checkout via WhatsApp).
+* **Validação de Payload:** Estruturação e testes da mensagem enviada para a API do WhatsApp via Postman.
+* **Gestão e Documentação:** Acompanhamento de melhorias e rastreio de inconsistências utilizando o Jira.
+* **Front-end Integrado:** Garantia de usabilidade, responsividade e código limpo utilizando HTML5, CSS3 e JavaScript.
+
 > Novos projetos de **QA, automação e IA** em desenvolvimento.
 
 ---
