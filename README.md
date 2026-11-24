@@ -9,29 +9,31 @@
 
 ### Analista de Sistemas Júnior
 
-**QA & Testes • Front-end • E-commerce • IA**
-
-</div>
+**Tecnologia • Dados • Inteligência Artificial e Automação**
 
 ---
 
 ## 💻 Sobre mim
 
-Profissional de tecnologia com experiência em **e-commerce, marketplaces e sistemas**, atualmente direcionando minha carreira para **QA, desenvolvimento Front-end e Inteligência Artificial**.
+Sou formada em Análise e Desenvolvimento de Sistemas e Administração, com experiência em sistemas, processos e operações de e-commerce.
 
-Estou constantemente estudando e criando projetos práticos para transformar conhecimento em experiência.
+Atualmente, estou direcionando meus estudos para **Dados e Inteligência Artificial**, com interesse em análise de informações, automação de processos e desenvolvimento de soluções tecnológicas.
 
----
-
-## 🛠️ Tecnologias
-
-**Front-end:** HTML • CSS • JavaScript • React
-**QA:** Testes Funcionais • Playwright • API • SQL
-**Ferramentas:** Git • GitHub • Jira • Notion
-**E-commerce:** Olist • Mercado Livre • Shopee • PrestaShop • Agendor
-**IA:** IA Generativa • ChatGPT • GitHub Copilot
+Utilizo este espaço para compartilhar projetos práticos, aplicar meus conhecimentos e acompanhar minha evolução na área de tecnologia.
 
 ---
+
+## 🛠️ Tecnologias e conhecimentos
+
+**Dados e IA:** SQL • IA Generativa • ChatGPT • GitHub Copilot
+
+**Desenvolvimento:** HTML • CSS • JavaScript • React
+
+**Ferramentas:** Git • GitHub • Excel • Notion
+
+**Sistemas e processos:** ERP • CRM • Olist • Mercado Livre • Shopee • PrestaShop • Agendor
+
+**Qualidade de software:** Testes funcionais • Testes de API
 
 ## 🚀 Projetos
 
